@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords='discord level card welcome',
   packages=find_packages(),
-  install_requires=['Pillow','easy-pil', 'discord.py'] 
+  install_requires=['Pillow','easy-pil'] 
 )
