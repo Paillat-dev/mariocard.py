@@ -21,10 +21,10 @@ Installing
 .. code:: sh
 
     # Linux/macOS
-    pip3 install -U mariocard.py
-
+    pip install git+https://github.com/Paillat-dev/mariocard.py
+    
     # Windows
-    pip install -U mariocard.py
+    pip install git+https://github.com/Paillat-dev/mariocard.py
 
 
 Level Card Example
